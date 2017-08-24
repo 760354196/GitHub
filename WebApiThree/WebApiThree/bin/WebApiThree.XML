@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiThree</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiThree.Controllers.UserController.GetUserInfo(System.String)">
+            <summary>
+            获取用户信息
+            </summary>
+            <param name="userName">用户名</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

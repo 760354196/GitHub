@@ -1,0 +1,9 @@
+F:\lastCompanyProject\OwnProject\WebApiThree\ApiDal\bin\Debug\ApiDal.dll
+F:\lastCompanyProject\OwnProject\WebApiThree\ApiDal\bin\Debug\ApiDal.pdb
+F:\lastCompanyProject\OwnProject\WebApiThree\ApiDal\obj\Debug\ApiDal.csprojResolveAssemblyReference.cache
+F:\lastCompanyProject\OwnProject\WebApiThree\ApiDal\obj\Debug\ApiDal.dll
+F:\lastCompanyProject\OwnProject\WebApiThree\ApiDal\obj\Debug\ApiDal.pdb
+F:\lastCompanyProject\OwnProject\WebApiThree\ApiDal\bin\Debug\ApiCommon.dll
+F:\lastCompanyProject\OwnProject\WebApiThree\ApiDal\bin\Debug\Dapper.dll
+F:\lastCompanyProject\OwnProject\WebApiThree\ApiDal\bin\Debug\ApiCommon.pdb
+F:\lastCompanyProject\OwnProject\WebApiThree\ApiDal\bin\Debug\Dapper.xml
